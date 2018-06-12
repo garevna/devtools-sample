@@ -1,4 +1,5 @@
 var circle = document.querySelector ( ".circle" )
+circle.style.visibility = "visible"
 
 var button = document.querySelector ( "button" )
 
