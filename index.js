@@ -1,5 +1,5 @@
 var scheme = document.querySelector ( "#block-scheme" )
-circle.style.visibility = "visible"
+scheme.style.visibility = "visible"
 
 var button = document.querySelector ( "button" )
 
